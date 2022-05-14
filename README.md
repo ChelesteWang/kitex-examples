@@ -3,6 +3,7 @@
 ## Project Layout
 
 basic
+
 bizdemo/easy_note 
 
 ## Build
